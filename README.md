@@ -14,7 +14,20 @@ New York is divided into five boroughs  **Brooklyn**, Queens, Staten Island, the
    1. Catch a train from columbus to Pennsylvania.
    2. After changing the platform at Pennsylvania, catch a train to Newyork at t4 platform.
 4. Finally we reach our destination city.
-5. I would like to carry camera, goggles and airpods for maximum enjoyment in Newyork.
+
+* I would like to carry: 
+    * Camera
+    * Goggles
+    * Airpods
+ * Drinks:
+    * Maaza
+    * Sprite
+
+
+
+
+
+
 
 
 
