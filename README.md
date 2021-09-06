@@ -7,12 +7,12 @@ New York is divided into five boroughs  **Brooklyn**, Queens, Staten Island, the
 
 # Directions from Maryville to Newyork
 1. It covers a distance of 992.1 miles from Maryville to Newyork through railway transport. 
-2. catch a cab and go to kansas city railway station
-   1. first train is from kansas to columbus 
-   2. After reaching columbus, change the platform to t3
-3.  AFter changing the platform we have to travel from columbus to Newyork city
-   1. catch a train from columbus to Pennsylvania 
-   2. After changing the platform at Pennsylvania, catch a train to Newyork at t4 platform
+2. Catch a cab and go to kansas city railway station.
+   1. first train is from kansas to columbus .
+   2. After reaching columbus, change the platform to t3.
+3. After changing the platform we have to travel from columbus to Newyork city.
+   1. Catch a train from columbus to Pennsylvania.
+   2. After changing the platform at Pennsylvania, catch a train to Newyork at t4 platform.
 4. Finally we reach our destination city.
 
 
