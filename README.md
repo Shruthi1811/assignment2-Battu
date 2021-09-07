@@ -16,16 +16,21 @@ New York is divided into five boroughs  **Brooklyn**, Queens, Staten Island, the
 4. Finally we reach our destination city.
 
 * I would like to carry: 
+  * Accessories:
     * Camera
     * Goggles
     * Airpods
- * Drinks:
+  * Drinks:
     * Maaza
     * Sprite
+  * Snacks:
+    * chips
 
-    **[AboutMe.md](AboutMe.md)**
+**[AboutMe.md](AboutMe.md)**
 
 ---
+
+# Foods i recommand someone to try
 
 I am going to create a table with at least 4 food items that I would recommend someone try. The food items I would recommend are chicken biryani, pizza, burger, Dal rice.
 
@@ -35,10 +40,3 @@ I am going to create a table with at least 4 food items that I would recommend s
 |pizza|Dominoz|5$|
 |Burger|Mcd|4$|
 |Dal rice|Sri kanya|6$|
-
-
-
-
-
-
-
