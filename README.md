@@ -47,3 +47,26 @@ I am going to create a table with at least 4 food items that I would recommend s
 
 > “Be the change that you wish to see in the world.” ―*Mahatma Gandhi*<Br>
 > “Everyone thinks of changing the world, but no one thinks of changing himself.” ―*Leo Tolstoy*
+
+---
+
+# Randomized Heap
+
+> In computer science, a randomized meldable heap (also Meldable Heap or Randomized Meldable Priority Queue) is a priority queue based data structure in which the underlying structure is also a heap-ordered binary tree. However, there are no restrictions on the shape of the underlying binary tree.
+   
+[Click Here to Know more](https://en.wikipedia.org/wiki/Randomized_meldable_heap)
+
+```
+Tree* merge(Tree* t1, Tree* t2) {
+    if (!t1 || !t2)
+        return t1 ? t1 : t2;
+    if (t2->value < t1->value)
+        swap(t1, t2);
+    if (rand() & 1)
+        swap(t1->l, t1->r);
+    t1->l = merge(t1->l, t2);
+    return t1;
+}
+```
+ 
+[Code Source](https://cp-algorithms.com/data_structures/randomized_heap.html)
