@@ -40,3 +40,10 @@ I am going to create a table with at least 4 food items that I would recommend s
 |pizza|Dominoz|5$|
 |Burger|Mcd|4$|
 |Dal rice|Sri kanya|6$|
+
+---
+
+# Pithy Quotes
+
+> “Be the change that you wish to see in the world.” ―*Mahatma Gandhi*<Br>
+> “Everyone thinks of changing the world, but no one thinks of changing himself.” ―*Leo Tolstoy*
