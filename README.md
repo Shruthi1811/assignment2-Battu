@@ -25,7 +25,15 @@ New York is divided into five boroughs  **Brooklyn**, Queens, Staten Island, the
 
     **[AboutMe.md](AboutMe.md)**
 
+---
 
+I am going to create a table with at least 4 food items that I would recommend someone try. The food items I would recommend are chicken biryani, pizza, burger, Dal rice.
+# |food item|location|cost|
+  |---|---|---|
+  |Biryani|Bawarchi|9$| 
+  |pizza|Dominoz|5$|
+  |Burger|Mcd|4$|
+  |Dal rice|Sri kanya|6$|
 
 
 
